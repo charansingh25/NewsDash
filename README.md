@@ -11,7 +11,7 @@ NewsDash is a Flutter-based news application that allows users to explore news a
 ## Tech Stack
 - **Framework**: Flutter
 - **Programming Language**: Dart
-- **API**: [(https://saurav.tech/NewsAPI/top-headlines/category/health/in.json)] (https://saurav.tech/NewsAPI/top-headlines/category/health/in.json)
+- **API**: https://saurav.tech/NewsAPI/top-headlines/category/health/in.json
 
 ### Available categories 
 - business
@@ -33,16 +33,16 @@ NewsDash is a Flutter-based news application that allows users to explore news a
 ## Screenshots
 
 <div>
-    <img src="/lib/assets/readme/categories.jpg" width="25%" alt="categories">
-    <img src="/lib/assets/readme/business.jpg" width="25%" alt="business">
-    <img src="/lib/assets/readme/entertainment.jpg" width="25%" alt="entertainment">
-    <img src="/lib/assets/readme/general.jpg" width="25%" alt="general">
+    <img src="/lib/assets/readme/categories.jpg" width="24%" alt="categories">
+    <img src="/lib/assets/readme/business.jpg" width="24%" alt="business">
+    <img src="/lib/assets/readme/entertainment.jpg" width="24%" alt="entertainment">
+    <img src="/lib/assets/readme/general.jpg" width="24%" alt="general">
 </div>
 <div>
-    <img src="/lib/assets/readme/health.jpg" width="25%" alt="health">
-    <img src="/lib/assets/readme/science.jpg" width="25%" alt="science">
-    <img src="/lib/assets/readme/sports.jpg" width="25%" alt="sports">
-    <img src="/lib/assets/readme/technology.jpg" width="25%" alt="technology">
+    <img src="/lib/assets/readme/health.jpg" width="24%" alt="health">
+    <img src="/lib/assets/readme/science.jpg" width="24%" alt="science">
+    <img src="/lib/assets/readme/sports.jpg" width="24%" alt="sports">
+    <img src="/lib/assets/readme/technology.jpg" width="24%" alt="technology">
 </div>
 
 
