@@ -51,8 +51,8 @@ To run this application locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/charansingh25/news_dash.git
-   cd news_dash
+   git clone https://github.com/charansingh25/NewsDash.git
+   cd NewsDash
 2. **Install Dependencies**:
    ```bash
    flutter pub get
